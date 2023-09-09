@@ -1,0 +1,14 @@
+C:\Users\Smain\C# project\YBSPrise\YBSPrise\bin\Debug\net7.0\YBSPrise.exe
+C:\Users\Smain\C# project\YBSPrise\YBSPrise\bin\Debug\net7.0\YBSPrise.deps.json
+C:\Users\Smain\C# project\YBSPrise\YBSPrise\bin\Debug\net7.0\YBSPrise.runtimeconfig.json
+C:\Users\Smain\C# project\YBSPrise\YBSPrise\bin\Debug\net7.0\YBSPrise.dll
+C:\Users\Smain\C# project\YBSPrise\YBSPrise\bin\Debug\net7.0\YBSPrise.pdb
+C:\Users\Smain\C# project\YBSPrise\YBSPrise\obj\Debug\net7.0\YBSPrise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smain\C# project\YBSPrise\YBSPrise\obj\Debug\net7.0\YBSPrise.AssemblyInfoInputs.cache
+C:\Users\Smain\C# project\YBSPrise\YBSPrise\obj\Debug\net7.0\YBSPrise.AssemblyInfo.cs
+C:\Users\Smain\C# project\YBSPrise\YBSPrise\obj\Debug\net7.0\YBSPrise.csproj.CoreCompileInputs.cache
+C:\Users\Smain\C# project\YBSPrise\YBSPrise\obj\Debug\net7.0\YBSPrise.dll
+C:\Users\Smain\C# project\YBSPrise\YBSPrise\obj\Debug\net7.0\refint\YBSPrise.dll
+C:\Users\Smain\C# project\YBSPrise\YBSPrise\obj\Debug\net7.0\YBSPrise.pdb
+C:\Users\Smain\C# project\YBSPrise\YBSPrise\obj\Debug\net7.0\YBSPrise.genruntimeconfig.cache
+C:\Users\Smain\C# project\YBSPrise\YBSPrise\obj\Debug\net7.0\ref\YBSPrise.dll
