@@ -1,7 +1,8 @@
-﻿Console.WriteLine("Welcome to the first prise from Your Bridge Schoole");
+﻿Console.Title = "Your Bridge School Big Contest";
+Console.WriteLine("Welcome to the first contest from Your Bridge School");
 Console.Write("Please enter your name: ");
 string userName = Console.ReadLine();
-Console.Write("hi " + userName + ", How Old are you? ");
+Console.Write("hi " + userName + ", How old are you? ");
 
 ///convert from string to int
 int userAge = int.Parse(Console.ReadLine());
@@ -9,19 +10,19 @@ int userAge = int.Parse(Console.ReadLine());
 if (userAge < 18)
 {
     int to18 = 18 - userAge;
-    Console.WriteLine("you are yong, try again after " + to18 + " years");
+    Console.WriteLine("you are young, try again after " + to18 + " years");
     Console.ReadLine();
 }
 
 else
 {
-    Console.WriteLine("you are old enagh, how to play:");
-    Console.WriteLine("     enter num of the ansowrs end press enter");
-    Console.WriteLine("press any key to contunuw");
+    Console.WriteLine("you are old enough, how to play:");
+    Console.WriteLine("     enter num of the answer end press enter");
+    Console.WriteLine("press any key to continue ......");
     Console.ReadKey();
     Console.Clear();
 
-    Console.WriteLine("first quition");
+    Console.WriteLine("first question");
     Console.WriteLine("1- 65464654");
     Console.WriteLine("2- 65464654");
     Console.WriteLine("3- 65464654");
@@ -29,7 +30,7 @@ else
     string userChose1 = Console.ReadLine();
     if (userChose1 == "1")
     {
-        Console.WriteLine("that is right, press any key to contunie");
+        Console.WriteLine("that is right, press any key to continue");
         Console.ReadKey();
         Console.Clear();
 
@@ -41,7 +42,7 @@ else
         string userChose2 = Console.ReadLine();
         if (userChose2 == "3")
         {
-            Console.WriteLine("correct, press any key to contunie");
+            Console.WriteLine("correct, press any key to continue");
             Console.ReadKey();
             Console.Clear();
 
@@ -53,10 +54,10 @@ else
             string userChose3 = Console.ReadLine();
             if (userChose3 == "2")
             {
-                Console.WriteLine("that correct you won, press any key to contunie");
+                Console.WriteLine("that correct you won, press any key to continue");
                 Console.ReadKey();
                 Console.Clear();
-                Console.WriteLine("there three doors behind each door a prise, choose one:");
+                Console.WriteLine("there three doors behind each door a prize, choose one:");
 
                 Console.WriteLine("1- door 01");
                 Console.WriteLine("2- door 02");
@@ -66,15 +67,15 @@ else
                 string mess = "";
                 if (doorChosen == "1")
                 {
-                    mess = "You won BMW";
+                    mess = "You won Bugatti Bolide";
                 }
                 else if (doorChosen == "3")
                 {
-                    mess = "You won Audi";
+                    mess = "You won Lamborghini";
                 }
                 if (doorChosen == "2")
                 {
-                    mess = "You won Bogaty";
+                    mess = "You won maruti";
                 }
 
                 Console.WriteLine($"congrarition ms {userName} you won " + mess);
@@ -84,21 +85,21 @@ else
 
             else
             {
-                Console.WriteLine("wrang anwosrs, you lose");
+                Console.WriteLine("wrang answer, you lose");
                 Console.ReadLine();
             }
         }
 
         else
         {
-            Console.WriteLine("wrang anwosrs, you lose");
+            Console.WriteLine("wrang answer, you lose");
             Console.ReadLine();
         }
     }
 
     else
     {
-        Console.WriteLine("wrang anwosrs, you lose");
+        Console.WriteLine("wrang answer, you lose");
         Console.ReadLine();
     }
 

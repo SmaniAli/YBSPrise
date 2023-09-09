@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Smain\\C# project\\YBSPrise\\YBSPrise\\YBSPrise.csproj": {}
+    "c:\\Users\\Smain\\C# project\\YBSPrise\\YBSPrise\\YBSPrise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Smain\\C# project\\YBSPrise\\YBSPrise\\YBSPrise.csproj": {
+    "c:\\Users\\Smain\\C# project\\YBSPrise\\YBSPrise\\YBSPrise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Smain\\C# project\\YBSPrise\\YBSPrise\\YBSPrise.csproj",
+        "projectUniqueName": "c:\\Users\\Smain\\C# project\\YBSPrise\\YBSPrise\\YBSPrise.csproj",
         "projectName": "YBSPrise",
-        "projectPath": "C:\\Users\\Smain\\C# project\\YBSPrise\\YBSPrise\\YBSPrise.csproj",
+        "projectPath": "c:\\Users\\Smain\\C# project\\YBSPrise\\YBSPrise\\YBSPrise.csproj",
         "packagesPath": "C:\\Users\\Smain\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Smain\\C# project\\YBSPrise\\YBSPrise\\obj\\",
+        "outputPath": "c:\\Users\\Smain\\C# project\\YBSPrise\\YBSPrise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
