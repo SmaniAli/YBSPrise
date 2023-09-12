@@ -23,9 +23,10 @@ else
     Console.Clear();
 
     Console.WriteLine("first question");
-    Console.WriteLine("1- 65464654");
-    Console.WriteLine("2- 65464654");
-    Console.WriteLine("3- 65464654");
+    Console.WriteLine("How many letter in english ?");
+    Console.WriteLine("1- 25 letter");
+    Console.WriteLine("2- 26 letter");
+    Console.WriteLine("3- 27 letter");
 
     string userChose1 = Console.ReadLine();
     if (userChose1 == "1")
@@ -34,10 +35,11 @@ else
         Console.ReadKey();
         Console.Clear();
 
-        Console.WriteLine("Second quition");
-        Console.WriteLine("1- 65464654");
-        Console.WriteLine("2- 65464654");
-        Console.WriteLine("3- 65464654");
+        Console.WriteLine("Second question");
+        Console.WriteLine("Fill the blink: What .... your name?");
+        Console.WriteLine("1- am");
+        Console.WriteLine("2- are");
+        Console.WriteLine("3- is");
 
         string userChose2 = Console.ReadLine();
         if (userChose2 == "3")
@@ -46,10 +48,11 @@ else
             Console.ReadKey();
             Console.Clear();
 
-            Console.WriteLine("last quition");
-            Console.WriteLine("1- 65464654");
-            Console.WriteLine("2- 65464654");
-            Console.WriteLine("3- 65464654");
+            Console.WriteLine("last question");
+            Console.WriteLine("What is the color of the sky");
+            Console.WriteLine("1- red");
+            Console.WriteLine("2- blue");
+            Console.WriteLine("3- green");
 
             string userChose3 = Console.ReadLine();
             if (userChose3 == "2")
